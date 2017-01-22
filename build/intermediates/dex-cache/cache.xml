@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\michael\AndroidStudioProjects\HabitAidPoints\HabitAid Points\build\intermediates\exploded-aar\HabitAidPoints\smartExtensionAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bbba82d2be3798c99c91c558b1a61501b2b406f1">
+        <dex dex="C:\Users\michael\AndroidStudioProjects\HabitAidPoints\HabitAid Points\build\intermediates\pre-dexed\debug\HabitAidPoints-smartExtensionAPI-unspecified_4aa8e06f9a972987606d79a9b7d4ac13643f2bbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\AndroidStudioProjects\HabitAidPoints\HabitAid Points\build\intermediates\exploded-aar\HabitAidPoints\smartExtensionUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5da222f9835462b62de76e8e0bc2ea3a10b80fcb">
+        <dex dex="C:\Users\michael\AndroidStudioProjects\HabitAidPoints\HabitAid Points\build\intermediates\pre-dexed\debug\HabitAidPoints-smartExtensionUtils-unspecified_8725e2f9f156b000f12211fefbb240d1554d85ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\michael\AndroidStudioProjects\HabitAidPoints\HabitAid Points\build\intermediates\exploded-aar\HabitAidPoints\smartExtensionUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d09837cf035b5db5e706e40502177e1bd5e97e6">
+        <dex dex="C:\Users\michael\AndroidStudioProjects\HabitAidPoints\HabitAid Points\build\intermediates\pre-dexed\debug\HabitAidPoints-smartExtensionUtils-unspecified_8725e2f9f156b000f12211fefbb240d1554d85ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael\AndroidStudioProjects\HabitAidPoints\HabitAid Points\build\intermediates\exploded-aar\HabitAidPoints\smartExtensionAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="029dd060553b22d7243948c7f2514ec206cd86a2">
+        <dex dex="C:\Users\michael\AndroidStudioProjects\HabitAidPoints\HabitAid Points\build\intermediates\pre-dexed\debug\HabitAidPoints-smartExtensionAPI-unspecified_4aa8e06f9a972987606d79a9b7d4ac13643f2bbf.jar" />
+    </item>
+
+</items>
